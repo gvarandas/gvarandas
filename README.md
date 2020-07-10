@@ -4,20 +4,20 @@
 
 ---
 
-I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software developer that is usually interested in crazy ideas 🦄 and useful projects ocasionally 🤖.
+I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software developer that is usually interested in crazy ideas 🦄  and useful projects ocasionally 🤖.
 
-## 💁‍♂️ About Me
+## ⚡️ About Me
 
-* 🧑‍🎤 Pronoums: **He/Him**
-* 👾 Passionate about **Gaming** *(ask me about TLOU 2)*
-* ⚛️ Love **React** / **React-Native**
-* 🎼 Retired Musician
+* 🧑‍🎤 &nbsp;&nbsp; Pronoums: **He/Him**
+* 👾 &nbsp;&nbsp; Passionate about **Gaming** *(ask me about TLOU 2)*
+* ⚛️ &nbsp;&nbsp; Love **React** / **React-Native**
+* 🎼 &nbsp;&nbsp; Retired Musician
 
 ## 🔍 Where do you usually find me?
 
-* 🎤 Speaking in **[Conferences](https://www.youtube.com/watch?v=otDl8PGYT4s)**
-* ✍️ Writing **[Articles](https://gvarandas.me/blog)**
-* 👷‍♂️Building **[Weird Stuff](https://gvarandas.me)**</p>
+* 🎤 &nbsp;&nbsp; Speaking in **[Conferences](https://www.youtube.com/watch?v=otDl8PGYT4s)**
+* ✍️ &nbsp;&nbsp; Writing **[Articles](https://gvarandas.me/blog)**
+* 👷‍♂️ &nbsp;&nbsp; Building **[Weird Stuff](https://gvarandas.me)**</p>
 
 ## 📬 Get in touch
 
