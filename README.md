@@ -1,6 +1,6 @@
 <!-- # Hello, nerds 🤓 -->
 
-![hello there](https://imgur.com/2eBkMS0)
+![hello there](https://github.com/gvarandas/gvarandas/blob/master/title.gif?raw=true)
 
 I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software developer that is usually interested in crazy ideas 🦄 and useful projects ocasionally 🤖.
 
