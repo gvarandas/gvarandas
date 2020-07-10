@@ -1,6 +1,6 @@
 <!-- # Hello, nerds 🤓 -->
 
-![hello there](./title.gif)
+![hello there](/title.gif)
 
 I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software developer that is usually interested in crazy ideas 🦄 and useful projects ocasionally 🤖.
 
