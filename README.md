@@ -15,11 +15,11 @@ I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software develope
 
 ## 🔍 Where do you usually find me?
 
-* 🎤 &nbsp;&nbsp; Speaking in <a href="https://www.youtube.com/watch?v=otDl8PGYT4s" target="_blank">**Conferences**</a>
-* ✍️ &nbsp;&nbsp; Writing <a href="https://gvarandas.me/blog" target="_blank">**Articles**</a>
-* 👷‍♂️ &nbsp;&nbsp; Building <a href="https://gvarandas.me" target="_blank">**Weird Stuff**</a>
+* 🎤 &nbsp;&nbsp; Speaking in [**Conferences**](https://www.youtube.com/watch?v=otDl8PGYT4s)
+* ✍️ &nbsp;&nbsp; Writing [**Articles**](https://gvarandas.me/blog)
+* 👷‍♂️ &nbsp;&nbsp; Building [**Weird Stuff**](https://gvarandas.me)
 
 ## 📬 Get in touch
 
-* @ me on <a href="https://twitter.com/jgvarandas" target="_blank">**Twitter**</a> *(usually about tech, politics, video games and randomness)*
-* connect with me on <a href="https://www.linkedin.com/in/guilhermevarandas" target="_blank">**Linkedin**</a> *(being an adult)*
+* @ me on [**Twitter**](https://twitter.com/jgvarandas) *(usually about tech, politics, video games and randomness)*
+* connect with me on [**Linkedin**](https://www.linkedin.com/in/guilhermevarandas) *(being an adult)*
