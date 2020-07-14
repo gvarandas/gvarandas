@@ -4,7 +4,7 @@
 
 ---
 
-I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software developer that is usually interested in crazy ideas 🦄  and useful projects ocasionally 🤖.
+I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software developer who is always interested in crazy ideas 🦄  and ocasionally in useful projects 🤖.
 
 ## ⚡️ About Me
 
