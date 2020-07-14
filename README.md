@@ -9,7 +9,7 @@ I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software develope
 ## ⚡️ About Me
 
 * 🧑‍🎤 &nbsp;&nbsp; Pronoums: **He/Him**
-* 👾 &nbsp;&nbsp; Passionate about **Gaming** *(ask me about TLOU 2)*
+* 👾 &nbsp;&nbsp; Passionate about **Gaming**
 * ⚛️ &nbsp;&nbsp; Love **React** / **React-Native**
 * 🎼 &nbsp;&nbsp; Retired **Musician**
 * 📱 &nbsp;&nbsp; Currently building mobile things [**@Shopify**](https://github.com/Shopify)
@@ -23,4 +23,4 @@ I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software develope
 ## 📬 Get in touch
 
 * @ me on [**Twitter**](https://twitter.com/jgvarandas) *(usually about tech, politics, video games and randomness)*
-* connect with me on [**Linkedin**](https://www.linkedin.com/in/guilhermevarandas) *(being an adult)*
+* connect with me on [**LinkedIn**](https://www.linkedin.com/in/guilhermevarandas) *(being an adult)*
