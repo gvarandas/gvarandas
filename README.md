@@ -16,7 +16,7 @@ I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software develope
 
 ## 🔍 Where do you usually find me?
 
-* 🎤 &nbsp;&nbsp; Speaking in [**Conferences**](https://www.youtube.com/watch?v=otDl8PGYT4s)
+* 🎤 &nbsp;&nbsp; Speaking at [**Conferences**](https://www.youtube.com/watch?v=otDl8PGYT4s)
 * ✍️ &nbsp;&nbsp; Writing [**Articles**](https://gvarandas.me/blog)
 * 👷‍♂️ &nbsp;&nbsp; Building [**Weird Stuff**](https://gvarandas.me)
 
