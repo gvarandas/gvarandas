@@ -12,7 +12,7 @@ I'm **Guil**, (or **Guilherme** if you can spell it) and I'm a software develope
 * 👾 &nbsp;&nbsp; Passionate about **Gaming**
 * ⚛️ &nbsp;&nbsp; Love **React** / **React-Native**
 * 🎼 &nbsp;&nbsp; Retired **Musician**
-* 📱 &nbsp;&nbsp; Currently building mobile things [**@Shopify**](https://github.com/Shopify)
+* 📱 &nbsp;&nbsp; Currently building mobile things [**@Samsara**](https://github.com/samsara-dev)
 
 ## 🔍 Where do you usually find me?
 
